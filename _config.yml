@@ -1,7 +1,7 @@
 name: testojo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.91645
+layout_spectrum: 0.1657726764678955
+typography_spectrum: 0.09051154158078134
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9f88a6'
     - '#b2b5b9'
     - '#facb99'
-  brandStrength: 0.7584189211484045
-  lightness: 0.11379733891226351
-  saturation: 0.7484258057083935
+  brandStrength: 0.9375
+  lightness: 0
+  saturation: 0.1875
   rhythmicContrast: 0.9192494158633053
 purpose: []
