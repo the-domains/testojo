@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[testojo]]></title>
         <description><![CDATA[testojo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 15:23:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 15:30:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d37cb9-5b51-4b33-a4e3-2b56d3b64b87.jpg">]]></description>
+            <link>https://thegrid.ai/testojo/aa35a44e-359e-4d61-8b25-94c59e3da8a2/index.html</link>
+            <guid isPermaLink="false">aa35a44e-359e-4d61-8b25-94c59e3da8a2</guid>
+            <pubDate>Wed, 27 Apr 2016 15:29:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Clean your homes today!!</p>]]></description>
-            <link>undefinedclean-your-homes-today/index.html</link>
+            <link>https://thegrid.ai/testojo/clean-your-homes-today/index.html</link>
             <guid isPermaLink="false">003f1f52-2a9a-4d95-9317-5e3d2457b251</guid>
             <pubDate>Wed, 27 Apr 2016 15:23:48 GMT</pubDate>
         </item>
